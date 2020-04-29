@@ -56275,7 +56275,7 @@
     "translate": [137.502675451, -29.177330106]
   },
   "objects": {
-    "QLD_LOCALITY_POLYGON_shp": {
+    "queensland": {
       "type": "GeometryCollection",
       "geometries": [
         {
